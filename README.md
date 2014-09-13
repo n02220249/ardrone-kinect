@@ -11,3 +11,6 @@ Dependencies
 * SimpleOpenNI Processing library for Kinect - http://code.google.com/p/simple-openni/wiki/Installation
 * AR Drone Processing Libraries - https://github.com/shigeodayo/ARDroneForP5 
 Documentation is at http://kougaku-navi.net/ARDroneForP5/index_en.html#library
+
+Link to video of program in use : https://www.youtube.com/watch?v=4DDwqv8xScY
+                                & https://www.youtube.com/watch?v=sRz-VnX2KGg
